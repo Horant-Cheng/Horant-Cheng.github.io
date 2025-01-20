@@ -13,7 +13,7 @@ tags: [springboot]     # TAG names should always be lowercase
 
 但这并不是最终值，还需加上一个默认等待数：
 
-![image-20250120141626953](../assets/image/image-20250120141626953-1737387584140-2.png)
+![image-20250120141626953](../assets/image/image-20250120141626953.png)
 
 即最大连接数为：8192+100 = 8292
 
