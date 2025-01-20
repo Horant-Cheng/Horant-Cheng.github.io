@@ -7,13 +7,13 @@ tags: [springboot]     # TAG names should always be lowercase
 
 首先可以在Idea External Libraries找依赖包，如下图：
 
-![image-20250120141359055](./image/image-20250120141359055.png)
+![image-20250120141359055](../assets/image/image-20250120141359055.png)
 
 可以看出最大连接数是8192
 
 但这并不是最终值，还需加上一个默认等待数：
 
-![image-20250120141626953](./image/image-20250120141626953.png)
+![image-20250120141626953](../assets/image/image-20250120141626953-1737387584140-2.png)
 
 即最大连接数为：8192+100 = 8292
 
