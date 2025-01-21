@@ -33,11 +33,5 @@ Bean可以看作Spring中的一个对象，其生命周期（创建，初始化�
 #### 基于注解的配置
 使用 `@Component`、`@Service`、`@Repository`、`@Controller` 等注解可以将类标记为 Spring Bean，Spring 会自动扫描这些类并将其注册为 Bean。
 
-相关：
-
-[url]: ./2024-11-29-@Service,@Componet,@Controller等区别.md	"@Service,@Componet,@Controller等区别"
-
-
-
 #### Java 配置类
 通过 `@Configuration` 和 `@Bean` 注解，可以在 Java 类中手动定义 Bean。相比 XML 配置，这种方式更加简洁和类型安全。
