@@ -1,5 +1,5 @@
 ---
-title: @Resource和@Autwired
+title: Resource和Autowired
 date: 2024-11-28 14:30:45 +0800
 categories: [SpringBoot, Annotations]
 tags: [springboot]     # TAG names should always be lowercase
